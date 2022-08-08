@@ -11,12 +11,13 @@ console.log(typeof conutry);
 console.log(typeof age);
 console.log(typeof isIndependent);
 console.log(typeof student);
+
 //check array using Array.isArray
 console.log(Array.isArray(friends));
 console.log(typeof add);
 
 
-//--------------
+//--------------includes
 console.log(friends.includes(19));
 console.log(friends.includes(21));
 
